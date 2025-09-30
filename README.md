@@ -30,7 +30,7 @@ Collection of business websites and product showcase platforms built for interna
 **Type:** Brand website with product catalog  
 **Description:** Custom clothing brand showcase with product galleries and inquiry system  
 **Tech:** JavaScript, HTML/CSS, responsive design  
-**Timeline:** 2 weeks
+**Timeline:** 1 week
 
 ---
 
